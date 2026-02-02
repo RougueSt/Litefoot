@@ -1,0 +1,5 @@
+<meta>
+  <info author="rougue_" type="script" name="AutoLiteFoot" description="This automaThis script automates LiteFoot during PvP. Optional command for the player." version="1.1"/>
+  <script src="c_LiteFoot.lua" type="client" cache="false"/>
+  
+</meta>
